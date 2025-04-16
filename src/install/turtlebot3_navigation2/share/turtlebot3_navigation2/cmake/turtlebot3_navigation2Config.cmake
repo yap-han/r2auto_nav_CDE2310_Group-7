@@ -1,0 +1,1 @@
+/home/yap_han/colcon_ws/src/build/turtlebot3_navigation2/ament_cmake_core/turtlebot3_navigation2Config.cmake

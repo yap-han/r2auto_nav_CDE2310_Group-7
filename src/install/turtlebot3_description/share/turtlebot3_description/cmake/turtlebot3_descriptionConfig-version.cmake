@@ -1,0 +1,1 @@
+/home/yap_han/colcon_ws/src/build/turtlebot3_description/ament_cmake_core/turtlebot3_descriptionConfig-version.cmake

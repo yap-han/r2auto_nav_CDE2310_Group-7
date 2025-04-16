@@ -1,0 +1,62 @@
+[0.422s] Invoking command in '/home/yap_han/colcon_ws/src/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yap_han/colcon_ws/install/turtlebot3_teleop:/home/yap_han/colcon_ws/install/turtlebot3_example:/home/yap_han/colcon_ws/install/py_pubsub:/home/yap_han/colcon_ws/install/nav2_simple_commander:/home/yap_han/colcon_ws/install/auto_nav:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/yap_han/colcon_ws/src/m-explore-ros2/explore -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yap_han/colcon_ws/src/install/explore_lite
+[0.467s] -- The C compiler identification is GNU 11.4.0
+[0.505s] -- The CXX compiler identification is GNU 11.4.0
+[0.509s] -- Detecting C compiler ABI info
+[0.564s] -- Detecting C compiler ABI info - done
+[0.571s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.571s] -- Detecting C compile features
+[0.571s] -- Detecting C compile features - done
+[0.573s] -- Detecting CXX compiler ABI info
+[0.639s] -- Detecting CXX compiler ABI info - done
+[0.666s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.668s] -- Detecting CXX compile features
+[0.669s] -- Detecting CXX compile features - done
+[0.671s] -- BuilD for ROS2: humble
+[0.677s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.052s] -- Found Python3: /home/yap_han/miniconda3/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.158s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.187s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.222s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.227s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.233s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.242s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.255s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.290s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.293s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.368s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.389s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.423s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.431s] -- Looking for pthread.h
+[1.493s] -- Looking for pthread.h - found
+[1.493s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.557s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.559s] -- Found Threads: TRUE  
+[1.611s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.635s] -- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+[1.706s] -- Found tf2_geometry_msgs: 0.25.12 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[1.723s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[1.723s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.723s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.725s] -- Found nav2_msgs: 1.1.18 (/home/yap_han/colcon_ws/install/nav2_msgs/share/nav2_msgs/cmake)
+[1.752s] -- Found map_msgs: 2.1.0 (/opt/ros/humble/share/map_msgs/cmake)
+[1.763s] -- Found visualization_msgs: 4.2.4 (/opt/ros/humble/share/visualization_msgs/cmake)
+[1.785s] -- Found nav2_costmap_2d: 1.1.18 (/opt/ros/humble/share/nav2_costmap_2d/cmake)
+[1.886s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.905s] Traceback (most recent call last):
+[1.906s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[1.906s]     from catkin_pkg.package import parse_package_string
+[1.906s] ModuleNotFoundError: No module named 'catkin_pkg'
+[1.908s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[1.908s]   execute_process(/home/yap_han/miniconda3/bin/python3
+[1.908s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[1.908s]   /home/yap_han/colcon_ws/src/m-explore-ros2/explore/package.xml
+[1.909s]   /home/yap_han/colcon_ws/src/build/explore_lite/ament_cmake_core/package.cmake)
+[1.909s]   returned error code 1
+[1.909s] Call Stack (most recent call first):
+[1.909s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[1.909s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[1.909s]   CMakeLists.txt:108 (ament_lint_auto_find_test_dependencies)
+[1.909s] 
+[1.909s] [0m
+[1.909s] -- Configuring incomplete, errors occurred!
+[1.910s] See also "/home/yap_han/colcon_ws/src/build/explore_lite/CMakeFiles/CMakeOutput.log".

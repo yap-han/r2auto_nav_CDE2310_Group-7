@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/colcon_core/executor/__init__.py", line 91, in __call__
+    rc = await self.task(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 93, in __call__
+    return await task_method(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/colcon_ros/task/ament_python/build.py", line 102, in build
+    return await extension.build(additional_hooks=additional_hooks)
+  File "/usr/lib/python3/dist-packages/colcon_core/task/python/build.py", line 145, in build
+    temp_symlinks = self._symlinks_in_build(args, setup_py_data)
+  File "/usr/lib/python3/dist-packages/colcon_core/task/python/build.py", line 353, in _symlinks_in_build
+    if not os.path.exists(dst) or not os.path.samefile(src, dst):
+  File "/usr/lib/python3.10/genericpath.py", line 100, in samefile
+    s1 = os.stat(f1)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/yap_han/colcon_ws/src/resource/auto_nav'

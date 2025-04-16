@@ -1,0 +1,102 @@
+running egg_info
+creating ../../build/auto_nav/auto_nav.egg-info
+writing ../../build/auto_nav/auto_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/auto_nav/auto_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/auto_nav/auto_nav.egg-info/entry_points.txt
+writing requirements to ../../build/auto_nav/auto_nav.egg-info/requires.txt
+writing top-level names to ../../build/auto_nav/auto_nav.egg-info/top_level.txt
+writing manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+reading manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+writing manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yap_han/colcon_ws/build/auto_nav/build
+creating /home/yap_han/colcon_ws/build/auto_nav/build/lib
+creating /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/no_nav2.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/r2mover.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/heat_logger.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/amg8833_node.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/amg.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/map_utils.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/__init__.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/astar_utils.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/fire.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/r2moverotate.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/r2auto_nav.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/r2occupancy2.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/amg_angle_publisher.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/r2scanner.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/explore_and_shoot.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/servo.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/r2occupancy.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/ros_workshop.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/generate_plot.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/motor.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/goal_manager.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+copying auto_nav/amg_angle_tester.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+running install
+running install_lib
+creating /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/no_nav2.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/r2mover.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/heat_logger.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/amg8833_node.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/amg.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/map_utils.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/__init__.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/astar_utils.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/fire.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/r2moverotate.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/r2auto_nav.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/r2occupancy2.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/amg_angle_publisher.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/r2scanner.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/explore_and_shoot.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/servo.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/r2occupancy.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/ros_workshop.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/generate_plot.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/motor.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/goal_manager.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/amg_angle_tester.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/no_nav2.py to no_nav2.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/r2mover.py to r2mover.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/heat_logger.py to heat_logger.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/amg8833_node.py to amg8833_node.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/amg.py to amg.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/map_utils.py to map_utils.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/astar_utils.py to astar_utils.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/fire.py to fire.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/r2moverotate.py to r2moverotate.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/r2auto_nav.py to r2auto_nav.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/r2occupancy2.py to r2occupancy2.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/amg_angle_publisher.py to amg_angle_publisher.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/r2scanner.py to r2scanner.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/explore_and_shoot.py to explore_and_shoot.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/servo.py to servo.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/r2occupancy.py to r2occupancy.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/ros_workshop.py to ros_workshop.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/generate_plot.py to generate_plot.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/motor.py to motor.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/goal_manager.py to goal_manager.cpython-310.pyc
+byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/amg_angle_tester.py to amg_angle_tester.cpython-310.pyc
+running install_data
+creating /home/yap_han/colcon_ws/install/auto_nav/share/ament_index
+creating /home/yap_han/colcon_ws/install/auto_nav/share/ament_index/resource_index
+creating /home/yap_han/colcon_ws/install/auto_nav/share/ament_index/resource_index/packages
+copying resource/auto_nav -> /home/yap_han/colcon_ws/install/auto_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/yap_han/colcon_ws/install/auto_nav/share/auto_nav
+running install_egg_info
+Copying ../../build/auto_nav/auto_nav.egg-info to /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav-0.0.1-py3.10.egg-info
+running install_scripts
+Installing explore_and_shoot script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing no_nav2 script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing r2auto_nav script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing r2mover script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing r2moverotate script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing r2occupancy script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing r2occupancy2 script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+Installing r2scanner script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+writing list of installed files to '/home/yap_han/colcon_ws/build/auto_nav/install.log'

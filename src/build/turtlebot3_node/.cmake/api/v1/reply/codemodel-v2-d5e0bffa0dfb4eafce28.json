@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-1c7af1d2798df2883941.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "turtlebot3_node",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot3_node_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot3_node_lib-d889ba69e8de9c377e93.json",
+					"name" : "turtlebot3_node_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot3_node_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot3_node_uninstall-2f3eee3a8746d5ff0041.json",
+					"name" : "turtlebot3_node_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot3_ros::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot3_ros-09f44ed47ec0176539d6.json",
+					"name" : "turtlebot3_ros",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-3b8515e177db2dada43b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yap_han/colcon_ws/src/build/turtlebot3_node",
+		"source" : "/home/yap_han/colcon_ws/src/turtlebot3/turtlebot3_node"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

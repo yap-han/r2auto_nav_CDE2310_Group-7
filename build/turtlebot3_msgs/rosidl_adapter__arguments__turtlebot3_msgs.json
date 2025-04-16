@@ -1,0 +1,11 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/yap_han/colcon_ws/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/home/yap_han/colcon_ws/src/turtlebot3_msgs:msg/Sound.msg",
+    "/home/yap_han/colcon_ws/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/home/yap_han/colcon_ws/src/turtlebot3_msgs:srv/Sound.srv",
+    "/home/yap_han/colcon_ws/src/turtlebot3_msgs:srv/Dqn.srv",
+    "/home/yap_han/colcon_ws/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}

@@ -1,0 +1,17 @@
+[31mCMake Error at CMakeLists.txt:22 (find_package):
+  By not providing "Findimage_geometry.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "image_geometry", but CMake did not find one.
+
+  Could not find a package configuration file provided by "image_geometry"
+  with any of the following names:
+
+    image_geometryConfig.cmake
+    image_geometry-config.cmake
+
+  Add the installation prefix of "image_geometry" to CMAKE_PREFIX_PATH or set
+  "image_geometry_DIR" to a directory containing one of the above files.  If
+  "image_geometry" provides a separate development package or SDK, be sure it
+  has been installed.
+
+[0m

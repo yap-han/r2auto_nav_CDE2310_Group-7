@@ -1,0 +1,44 @@
+[0.040s] Invoking command in '/home/yap_han/colcon_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yap_han/colcon_ws/install/turtlebot3_teleop:/home/yap_han/colcon_ws/install/turtlebot3_example:/home/yap_han/colcon_ws/install/py_pubsub:/home/yap_han/colcon_ws/install/auto_nav:/home/yap_han/install/auto_nav:/opt/ros/humble /usr/bin/cmake --build /home/yap_han/colcon_ws/build/dynamixel_sdk -- -j18 -l18
+[0.348s] [100%] Built target dynamixel_sdk
+[0.496s] Invoked command in '/home/yap_han/colcon_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yap_han/colcon_ws/install/turtlebot3_teleop:/home/yap_han/colcon_ws/install/turtlebot3_example:/home/yap_han/colcon_ws/install/py_pubsub:/home/yap_han/colcon_ws/install/auto_nav:/home/yap_han/install/auto_nav:/opt/ros/humble /usr/bin/cmake --build /home/yap_han/colcon_ws/build/dynamixel_sdk -- -j18 -l18
+[0.498s] Invoking command in '/home/yap_han/colcon_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yap_han/colcon_ws/install/turtlebot3_teleop:/home/yap_han/colcon_ws/install/turtlebot3_example:/home/yap_han/colcon_ws/install/py_pubsub:/home/yap_han/colcon_ws/install/auto_nav:/home/yap_han/install/auto_nav:/opt/ros/humble /usr/bin/cmake --install /home/yap_han/colcon_ws/build/dynamixel_sdk
+[0.516s] -- Install configuration: ""
+[0.516s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include/
+[0.516s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk
+[0.516s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_windows.h
+[0.516s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/protocol2_packet_handler.h
+[0.516s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/protocol1_packet_handler.h
+[0.517s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_linux.h
+[0.517s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_write.h
+[0.517s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_read.h
+[0.517s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/packet_handler.h
+[0.517s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/dynamixel_sdk.h
+[0.517s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_read.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_mac.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_handler.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_fast_sync_read.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_fast_bulk_read.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_write.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_arduino.h
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/lib/libdynamixel_sdk.so
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.sh
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.dsv
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.sh
+[0.518s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.dsv
+[0.519s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.sh
+[0.519s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.dsv
+[0.519s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.bash
+[0.519s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.sh
+[0.519s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.zsh
+[0.520s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.dsv
+[0.520s] -- Installing: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/package.dsv
+[0.520s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/ament_index/resource_index/packages/dynamixel_sdk
+[0.520s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.520s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_libraries-extras.cmake
+[0.520s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+[0.521s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+[0.521s] -- Up-to-date: /home/yap_han/colcon_ws/install/dynamixel_sdk/share/dynamixel_sdk/package.xml
+[0.569s] Invoked command in '/home/yap_han/colcon_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yap_han/colcon_ws/install/turtlebot3_teleop:/home/yap_han/colcon_ws/install/turtlebot3_example:/home/yap_han/colcon_ws/install/py_pubsub:/home/yap_han/colcon_ws/install/auto_nav:/home/yap_han/install/auto_nav:/opt/ros/humble /usr/bin/cmake --install /home/yap_han/colcon_ws/build/dynamixel_sdk

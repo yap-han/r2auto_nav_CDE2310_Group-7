@@ -1,0 +1,6 @@
+Invoking command in '/home/yap_han/colcon_ws/src/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yap_han/colcon_ws/src/turtlebot3_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yap_han/colcon_ws/src/install/turtlebot3_msgs
+Invoked command in '/home/yap_han/colcon_ws/src/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yap_han/colcon_ws/src/turtlebot3_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yap_han/colcon_ws/src/install/turtlebot3_msgs
+Invoking command in '/home/yap_han/colcon_ws/src/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yap_han/colcon_ws/src/build/turtlebot3_msgs -- -j18 -l18
+Invoked command in '/home/yap_han/colcon_ws/src/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yap_han/colcon_ws/src/build/turtlebot3_msgs -- -j18 -l18
+Invoking command in '/home/yap_han/colcon_ws/src/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yap_han/colcon_ws/src/build/turtlebot3_msgs
+Invoked command in '/home/yap_han/colcon_ws/src/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yap_han/colcon_ws/src/build/turtlebot3_msgs

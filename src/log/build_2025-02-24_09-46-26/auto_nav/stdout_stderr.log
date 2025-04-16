@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating auto_nav.egg-info
+writing auto_nav.egg-info/PKG-INFO
+writing dependency_links to auto_nav.egg-info/dependency_links.txt
+writing entry points to auto_nav.egg-info/entry_points.txt
+writing requirements to auto_nav.egg-info/requires.txt
+writing top-level names to auto_nav.egg-info/top_level.txt
+writing manifest file 'auto_nav.egg-info/SOURCES.txt'
+reading manifest file 'auto_nav.egg-info/SOURCES.txt'
+writing manifest file 'auto_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yap_han/colcon_ws/src/install/auto_nav/lib/python3.10/site-packages/auto-nav.egg-link (link to .)
+Installing r2auto_nav script to /home/yap_han/colcon_ws/src/install/auto_nav/lib/auto_nav
+Installing r2mover script to /home/yap_han/colcon_ws/src/install/auto_nav/lib/auto_nav
+Installing r2moverotate script to /home/yap_han/colcon_ws/src/install/auto_nav/lib/auto_nav
+Installing r2occupancy script to /home/yap_han/colcon_ws/src/install/auto_nav/lib/auto_nav
+Installing r2occupancy2 script to /home/yap_han/colcon_ws/src/install/auto_nav/lib/auto_nav
+Installing r2scanner script to /home/yap_han/colcon_ws/src/install/auto_nav/lib/auto_nav
+
+Installed /home/yap_han/colcon_ws/src/build/auto_nav
+running symlink_data
+creating /home/yap_han/colcon_ws/src/install/auto_nav/share/ament_index
+creating /home/yap_han/colcon_ws/src/install/auto_nav/share/ament_index/resource_index
+creating /home/yap_han/colcon_ws/src/install/auto_nav/share/ament_index/resource_index/packages
+symbolically linking /home/yap_han/colcon_ws/src/build/auto_nav/resource/auto_nav -> /home/yap_han/colcon_ws/src/install/auto_nav/share/ament_index/resource_index/packages
+symbolically linking /home/yap_han/colcon_ws/src/build/auto_nav/package.xml -> /home/yap_han/colcon_ws/src/install/auto_nav/share/auto_nav

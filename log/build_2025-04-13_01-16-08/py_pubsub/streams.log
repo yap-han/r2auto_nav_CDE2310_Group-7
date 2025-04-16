@@ -1,0 +1,41 @@
+[1.075s] Invoking command in '/home/yap_han/colcon_ws/src/py_pubsub': PYTHONPATH=/home/yap_han/colcon_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/yap_han/colcon_ws/build/py_pubsub/build install --record /home/yap_han/colcon_ws/build/py_pubsub/install.log --single-version-externally-managed install_data
+[1.228s] running egg_info
+[1.228s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[1.236s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.236s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.236s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.236s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.236s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.236s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.253s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.254s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.254s] running build
+[1.254s] running build_py
+[1.254s] creating /home/yap_han/colcon_ws/build/py_pubsub/build
+[1.254s] creating /home/yap_han/colcon_ws/build/py_pubsub/build/lib
+[1.254s] creating /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub
+[1.254s] copying py_pubsub/__init__.py -> /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub
+[1.254s] copying py_pubsub/subscriber_member_function.py -> /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub
+[1.254s] copying py_pubsub/publisher_member_function.py -> /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub
+[1.254s] running install
+[1.258s] running install_lib
+[1.266s] creating /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.266s] copying /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.267s] copying /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.267s] copying /home/yap_han/colcon_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.267s] byte-compiling /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/__init__.py to __init__.cpython-310.pyc
+[1.267s] byte-compiling /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[1.267s] byte-compiling /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[1.267s] running install_data
+[1.268s] creating /home/yap_han/colcon_ws/install/py_pubsub/share/ament_index
+[1.268s] creating /home/yap_han/colcon_ws/install/py_pubsub/share/ament_index/resource_index
+[1.268s] creating /home/yap_han/colcon_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[1.268s] copying resource/py_pubsub -> /home/yap_han/colcon_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[1.268s] copying package.xml -> /home/yap_han/colcon_ws/install/py_pubsub/share/py_pubsub
+[1.268s] running install_egg_info
+[1.278s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.278s] running install_scripts
+[1.372s] Installing listener script to /home/yap_han/colcon_ws/install/py_pubsub/lib/py_pubsub
+[1.372s] Installing talker script to /home/yap_han/colcon_ws/install/py_pubsub/lib/py_pubsub
+[1.372s] writing list of installed files to '/home/yap_han/colcon_ws/build/py_pubsub/install.log'
+[1.394s] Invoked command in '/home/yap_han/colcon_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/yap_han/colcon_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/yap_han/colcon_ws/build/py_pubsub/build install --record /home/yap_han/colcon_ws/build/py_pubsub/install.log --single-version-externally-managed install_data

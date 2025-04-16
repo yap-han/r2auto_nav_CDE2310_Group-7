@@ -1,0 +1,19 @@
+[0.756s] Invoking command in '/home/yap_han/colcon_ws/src/build/turtlebot3_example': AMENT_PREFIX_PATH=/home/yap_han/colcon_ws/src/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yap_han/colcon_ws/src/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) LD_LIBRARY_PATH=/home/yap_han/colcon_ws/src/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yap_han/colcon_ws/src/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/src/install/turtlebot3_example/lib/python3.10/site-packages:/home/yap_han/colcon_ws/src/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yap_han/colcon_ws/src/build/turtlebot3_example/build --no-deps symlink_data
+[0.937s] running develop
+[1.034s] running egg_info
+[1.035s] writing turtlebot3_example.egg-info/PKG-INFO
+[1.035s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[1.035s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[1.035s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[1.036s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[1.036s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.037s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.038s] running build_ext
+[1.038s] Creating /home/yap_han/colcon_ws/src/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[1.038s] Installing turtlebot3_obstacle_detection script to /home/yap_han/colcon_ws/src/install/turtlebot3_example/lib/turtlebot3_example
+[1.038s] Installing turtlebot3_patrol_client script to /home/yap_han/colcon_ws/src/install/turtlebot3_example/lib/turtlebot3_example
+[1.039s] Installing turtlebot3_patrol_server script to /home/yap_han/colcon_ws/src/install/turtlebot3_example/lib/turtlebot3_example
+[1.039s] Installing turtlebot3_position_control script to /home/yap_han/colcon_ws/src/install/turtlebot3_example/lib/turtlebot3_example
+[1.039s] 
+[1.039s] Installed /home/yap_han/colcon_ws/src/build/turtlebot3_example
+[1.039s] running symlink_data

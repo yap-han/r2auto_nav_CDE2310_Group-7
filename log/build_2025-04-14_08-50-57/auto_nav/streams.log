@@ -1,0 +1,34 @@
+[0.958s] Invoking command in '/home/yap_han/colcon_ws/src/auto_nav': PYTHONPATH=/home/yap_han/colcon_ws/build/auto_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/auto_nav build --build-base /home/yap_han/colcon_ws/build/auto_nav/build install --record /home/yap_han/colcon_ws/build/auto_nav/install.log --single-version-externally-managed install_data
+[1.096s] running egg_info
+[1.104s] writing ../../build/auto_nav/auto_nav.egg-info/PKG-INFO
+[1.104s] writing dependency_links to ../../build/auto_nav/auto_nav.egg-info/dependency_links.txt
+[1.104s] writing entry points to ../../build/auto_nav/auto_nav.egg-info/entry_points.txt
+[1.104s] writing requirements to ../../build/auto_nav/auto_nav.egg-info/requires.txt
+[1.104s] writing top-level names to ../../build/auto_nav/auto_nav.egg-info/top_level.txt
+[1.121s] reading manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+[1.122s] writing manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+[1.123s] running build
+[1.123s] running build_py
+[1.125s] copying auto_nav/amg_angle_publisher.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+[1.125s] copying auto_nav/explore_and_shoot.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+[1.125s] running install
+[1.127s] running install_lib
+[1.135s] copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/amg_angle_publisher.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+[1.135s] copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/explore_and_shoot.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+[1.135s] byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/amg_angle_publisher.py to amg_angle_publisher.cpython-310.pyc
+[1.136s] byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/explore_and_shoot.py to explore_and_shoot.cpython-310.pyc
+[1.137s] running install_data
+[1.137s] running install_egg_info
+[1.146s] removing '/home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav-0.0.1-py3.10.egg-info' (and everything under it)
+[1.146s] Copying ../../build/auto_nav/auto_nav.egg-info to /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav-0.0.1-py3.10.egg-info
+[1.146s] running install_scripts
+[1.236s] Installing explore_and_shoot script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.236s] Installing no_nav2 script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] Installing r2auto_nav script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] Installing r2mover script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] Installing r2moverotate script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] Installing r2occupancy script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] Installing r2occupancy2 script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] Installing r2scanner script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.237s] writing list of installed files to '/home/yap_han/colcon_ws/build/auto_nav/install.log'
+[1.257s] Invoked command in '/home/yap_han/colcon_ws/src/auto_nav' returned '0': PYTHONPATH=/home/yap_han/colcon_ws/build/auto_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/auto_nav build --build-base /home/yap_han/colcon_ws/build/auto_nav/build install --record /home/yap_han/colcon_ws/build/auto_nav/install.log --single-version-externally-managed install_data

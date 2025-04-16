@@ -1,0 +1,31 @@
+[0.969s] Invoking command in '/home/yap_han/colcon_ws/src/auto_nav': PYTHONPATH=/home/yap_han/colcon_ws/build/auto_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/auto_nav build --build-base /home/yap_han/colcon_ws/build/auto_nav/build install --record /home/yap_han/colcon_ws/build/auto_nav/install.log --single-version-externally-managed install_data
+[1.120s] running egg_info
+[1.128s] writing ../../build/auto_nav/auto_nav.egg-info/PKG-INFO
+[1.128s] writing dependency_links to ../../build/auto_nav/auto_nav.egg-info/dependency_links.txt
+[1.128s] writing entry points to ../../build/auto_nav/auto_nav.egg-info/entry_points.txt
+[1.129s] writing requirements to ../../build/auto_nav/auto_nav.egg-info/requires.txt
+[1.129s] writing top-level names to ../../build/auto_nav/auto_nav.egg-info/top_level.txt
+[1.151s] reading manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+[1.152s] writing manifest file '../../build/auto_nav/auto_nav.egg-info/SOURCES.txt'
+[1.152s] running build
+[1.152s] running build_py
+[1.153s] copying auto_nav/explore_and_shoot.py -> /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav
+[1.154s] running install
+[1.158s] running install_lib
+[1.168s] copying /home/yap_han/colcon_ws/build/auto_nav/build/lib/auto_nav/explore_and_shoot.py -> /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav
+[1.169s] byte-compiling /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav/explore_and_shoot.py to explore_and_shoot.cpython-310.pyc
+[1.171s] running install_data
+[1.171s] running install_egg_info
+[1.180s] removing '/home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav-0.0.1-py3.10.egg-info' (and everything under it)
+[1.180s] Copying ../../build/auto_nav/auto_nav.egg-info to /home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages/auto_nav-0.0.1-py3.10.egg-info
+[1.181s] running install_scripts
+[1.277s] Installing explore_and_shoot script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.277s] Installing no_nav2 script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.277s] Installing r2auto_nav script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.277s] Installing r2mover script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.277s] Installing r2moverotate script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.277s] Installing r2occupancy script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.278s] Installing r2occupancy2 script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.278s] Installing r2scanner script to /home/yap_han/colcon_ws/install/auto_nav/lib/auto_nav
+[1.278s] writing list of installed files to '/home/yap_han/colcon_ws/build/auto_nav/install.log'
+[1.306s] Invoked command in '/home/yap_han/colcon_ws/src/auto_nav' returned '0': PYTHONPATH=/home/yap_han/colcon_ws/build/auto_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yap_han/colcon_ws/install/auto_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/auto_nav build --build-base /home/yap_han/colcon_ws/build/auto_nav/build install --record /home/yap_han/colcon_ws/build/auto_nav/install.log --single-version-externally-managed install_data
